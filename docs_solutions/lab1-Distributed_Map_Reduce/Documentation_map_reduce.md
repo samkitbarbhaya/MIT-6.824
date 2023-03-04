@@ -107,7 +107,7 @@ type  ReduceTask  struct {
 
 
 ### worker.go
-[Code Link](https://github.com/nisarg1499/MIT-6.824-Labs/blob/main/src/mr/worker.go)
+[Code Link](https://github.com/samkitbarbhaya/MIT-6.824/blob/main/src/mr/worker.go)
 
 This file includes the implementation of all methods required by worker. 
 
