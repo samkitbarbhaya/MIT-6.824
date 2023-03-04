@@ -10,7 +10,7 @@ In mr folder:
 ## Overview
 The below image has the complete flow of the application.
 
-![image](https://github.com/nisarg1499/MIT-6.824-Labs/blob/main/docs_solutions/lab1-Distributed_Map_Reduce/system-overview.jpg)
+![image](https://github.com/samkitbarbhaya/MIT-6.824/blob/main/docs_solutions/lab1-Distributed_Map_Reduce/system-overview.jpg)
 
 
 ## Details 
