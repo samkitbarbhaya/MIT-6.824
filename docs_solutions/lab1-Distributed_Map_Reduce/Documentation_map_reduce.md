@@ -16,7 +16,7 @@ The below image has the complete flow of the application.
 ## Details 
 
 ### rpc.go
-[Code Link](https://github.com/nisarg1499/MIT-6.824-Labs/blob/main/src/mr/rpc.go)
+[Code Link](https://github.com/samkitbarbhaya/MIT-6.824/blob/main/src/mr/rpc.go)
 
 This file includes all RPC definitions. In total 4 definitions were declared and used. 
 
