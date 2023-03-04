@@ -49,7 +49,7 @@ type  ReportOnMapToMasterArgs  struct {
 
 
 ### master.go
-[Code Link](https://github.com/samkitbarbhaya/MIT-6.824-Labs/blob/main/src/mr/master.go)
+[Code Link](https://github.com/samkitbarbhaya/MIT-6.824/blob/main/src/mr/master.go)
 
 This file includes implementation of all methods required by master. 
 
