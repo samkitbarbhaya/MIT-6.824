@@ -3,7 +3,7 @@
 
 Trying to solve problems given in the labs of MIT 6.8024 Spring 2020 course. The starter code is given by MIT, the core logic and other stuffs needs to be implemented by ourself. 
 
-You can find the course description and labs [here](http://nil.csail.mit.edu/6.824/2020/index.html).
+You can find the course description and labs [here](http://nil.csail.mit.edu/6.824/2021/index.html).
 
 ## Course Description
 6.824 is a core 12-unit graduate subject with lectures, readings, programming labs, an optional project, a mid-term exam, and a final exam. It will present abstractions and implementation techniques for engineering distributed systems. Major topics include fault tolerance, replication, and consistency. Much of the class consists of studying and discussing case studies of distributed systems.
